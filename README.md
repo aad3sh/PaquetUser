@@ -10,6 +10,8 @@ Client side mobile android application for logistic support.
 <li> Order details stored in firebase </li>
 <li> In-app payment options via PayTM </li>
 
+
+###
 The app is like an Uber but for delivery of goods instead of people. It has PayTM apk integrated into it to allow realistic transactions to take place.
 The UI is uniform and serves the app's purpose. 
 
