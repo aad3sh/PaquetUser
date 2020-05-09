@@ -15,4 +15,5 @@ Client side mobile android application for logistic support.
 The app is like an Uber but for delivery of goods instead of people. It has PayTM apk integrated into it to allow realistic transactions to take place.
 The UI is uniform and serves the app's purpose. 
 
-Feel free to use this project however you want.
+However, if you do use this project in any way, please be kind enough to mention/give credits<br>
+A non-trivial amount of effort has been put into this project and <b>plagiarism is bad</b>.
